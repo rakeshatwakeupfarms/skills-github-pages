@@ -5,7 +5,8 @@ date: 2024-12-01
 
 **Templating and Data Representation:** Aspect of Network Automation using a tailor made AI Chatbot just to handle this scenario
 
-![Screenshot 2024-12-01 at 23.36.49.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ed123b20-28ee-44a4-b166-dcfdd486f6e4/daae6e7b-614b-4c03-a99d-0aac58ae3609/Screenshot_2024-12-01_at_23.36.49.png)
+<img width="801" alt="Screenshot 2024-12-01 at 23 28 10" src="https://github.com/user-attachments/assets/f38cbafd-d9dc-4313-a6cf-7ba6467800fd">
+
 
 In today's exploration, we'll dive into the fascinating world of automation frameworks and how different data formats work together to create powerful, maintainable solutions. Drawing from extensive hands-on experience, I'll share insights into how XML, JSON, and YAML complement each other in modern automation landscapes.
 
