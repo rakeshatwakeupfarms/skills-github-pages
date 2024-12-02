@@ -1,3 +1,8 @@
+---
+title: "GEN AI Blogpost"
+date: 2024-12-01
+---
+
 **Templating and Data Representation:** Aspect of Network Automation using a tailor made AI Chatbot just to handle this scenario
 
 ![Screenshot 2024-12-01 at 23.36.49.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ed123b20-28ee-44a4-b166-dcfdd486f6e4/daae6e7b-614b-4c03-a99d-0aac58ae3609/Screenshot_2024-12-01_at_23.36.49.png)
